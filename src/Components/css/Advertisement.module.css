@@ -1,0 +1,8 @@
+.advertisement {
+    height: 130px;
+    flex-basis: 100%;
+    margin: 24px;
+    background-color: #b4a7d6;
+
+    align-self: flex-end;
+}

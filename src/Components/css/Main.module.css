@@ -1,0 +1,7 @@
+.main {
+    background-color: #e06666;
+    flex: 4;
+
+    display: flex;
+    flex-wrap: wrap;
+}
